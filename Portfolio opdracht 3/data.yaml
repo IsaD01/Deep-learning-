@@ -1,0 +1,21 @@
+train: 
+  path: '../Train/images'
+  label_path: '../Train/labels'
+
+val: 
+  path: '../Val/images'
+  label_path: '../Val/labels'
+  
+
+nc: 10  # Number of classes
+names:
+  - 'sunglass'
+  - 'hat'
+  - 'jacket'
+  - 'shirt'
+  - 'pants'
+  - 'shorts'
+  - 'skirt'
+  - 'dress'
+  - 'bag'
+  - 'shoe'

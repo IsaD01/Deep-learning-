@@ -1,0 +1,17 @@
+train: 'C:/Users/Gebruiker/Documents/GitHub/Deep-learning-/Portfolio opdracht 3/Train/images'
+val: 'C:/Users/Gebruiker/Documents/GitHub/Deep-learning-/Portfolio opdracht 3/Val/images'
+test: 'C:/Users/Gebruiker/Documents/GitHub/Deep-learning-/Portfolio opdracht 3/Test/images'
+
+  
+nc: 10  # Number of classes
+names:
+  - 'sunglass'
+  - 'hat'
+  - 'jacket'
+  - 'shirt'
+  - 'pants'
+  - 'shorts'
+  - 'skirt'
+  - 'dress'
+  - 'bag'
+  - 'shoe'
